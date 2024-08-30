@@ -1,0 +1,4 @@
+pandas
+numpy
+seaborn
+-e .  ## this will trigger setup.py after installation of new packages
